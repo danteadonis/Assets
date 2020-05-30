@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2bc7a051d20df374a8dd6a4f8ff41e93
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigidbody2D: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - seed: {fileID: 3642659503446814680, guid: 8cda0083e9fc40f4a9ae14ed74fddde6, type: 3}
+  - egg: {fileID: 3253224649026240963, guid: 512bb229c65459c4a9c62d671af1978d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
